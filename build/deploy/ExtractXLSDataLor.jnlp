@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="ExtractXLSDataLor.jnlp">
+  <information>
+    <title>ExtractXLSDataLor</title>
+    <vendor>loreal</vendor>
+    <description></description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="ExtractXLSDataLor.jar" size="14594" download="eager" />
+    <jar href="libs/poi-3.13.jar" size="2497380" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="0" height="0" main-class="ExtractXLSData.Start"  name="" />
+  <update check="background"/>
+</jnlp>
